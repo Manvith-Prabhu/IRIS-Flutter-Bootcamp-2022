@@ -1,10 +1,10 @@
-import 'package:untitled/untitled.dart' as untitled;
 import 'dart:io';
 void Fibonacci(int n)
 {int sum=0,i;
 int n1=1;
 if(n>=1)
-{for(i=1;i<=n;i++)
+{print("Fibonacci series is:");
+  for(i=1;i<=n;i++)
 {print('$sum');
 sum=sum+n1;
 n1=sum-n1;}}
