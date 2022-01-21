@@ -6,4 +6,4 @@
 
 ## [Timeline](/general/timeline.md)
 
-![Trivia App Output](https://github.com/Manvith-Prabhu/IRIS-Flutter-Bootcamp-2022/blob/master/Trivia%20App/Triviaapp_output.gif)
+##[Trivia App Output](https://github.com/Manvith-Prabhu/IRIS-Flutter-Bootcamp-2022/blob/master/Trivia%20App/Triviaapp_output.gif)
